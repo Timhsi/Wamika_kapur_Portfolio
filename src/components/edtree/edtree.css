@@ -45,7 +45,7 @@
     display: inline-block;
     width: 21px;
     height: 21px;
-    background-color: var(--color-primary);
+    background-color:  #edf67d;
     border-radius: 50%;
 }
 
@@ -53,7 +53,7 @@
     display: block;
     width: 3px;
     height: 100%;
-    background-color: var(--color-primary);
+    background-color:  #edf67d;
     transform: translate(9px, -8px);
 }
 
