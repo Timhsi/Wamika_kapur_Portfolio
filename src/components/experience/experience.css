@@ -5,6 +5,10 @@
     margin: 70px;
     justify-content: space-around;
 }
+
+.cert{
+    margin-left: 70px;
+}
 .skill_heading{
     text-align: center;
     color:  #edf67d;
